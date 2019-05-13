@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/josegilmon/hapi-hyperapp-sandbox#readme",
   "dependencies": {
-    "hapi": "^17.5.1",
+    "hapi": "^17.8.5",
     "hyperapp": "^1.2.6",
     "inert": "^5.1.0"
   },
